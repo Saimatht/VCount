@@ -5,4 +5,4 @@ You can change max-points and point-difference in the settings, aswell as how ma
 Save your games, import and export them in the settings and also choose your preferred design, giving you the best comfort when watching a volleyball game and counting.
 
 >All rights lie by the creator.
->Published and created by Saimatht
+>Published and created by Saimatht.
